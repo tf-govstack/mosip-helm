@@ -417,4 +417,5 @@ istio:
   enabled: true
   gateways:
     - istio-system/internal
+    - istio-system/public
   prefix: /registrationprocessor/v1/workflowmanager
